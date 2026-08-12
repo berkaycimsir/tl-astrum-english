@@ -4,7 +4,7 @@ English localization for the Astrum (RU) version of Throne and Liberty, covering
 
 ## Install
 
-1. [Download `tl_localization.bat`](https://raw.githubusercontent.com/berkaycimsir/tl-astrum-english/main/tl_localization.bat).
+1. [Download `tl_localization.bat`](https://github.com/berkaycimsir/tl-astrum-english/releases/latest/download/tl_localization.bat).
 2. Close Throne and Liberty.
 3. Run the downloaded batch file.
 4. Choose **Install English**.
