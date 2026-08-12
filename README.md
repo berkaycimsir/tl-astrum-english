@@ -16,10 +16,11 @@ The batch file downloads the matching localization payload and installer from th
 
 - Built for the Astrum Talandre/T2 localization catalog shipped with `TL.exe` version `1.321.32.16466`.
 - Preserves all 125,800 Astrum localization keys and hashes.
-- Applies English to 123,580 safely matched rows (98.24% catalog coverage).
+- Applies English to 123,641 safely matched rows (98.28% catalog coverage).
 - All 2,797 explicitly marked T1 rows are English.
 - All 1,959 explicitly marked T2 rows are English.
 - Talandre and Herba content is included.
+- Includes all 180 event-NPC name rows, including Shopkeeper Lilibet and 60 Local Resident entries.
 - All 382 detected T3-related rows remain in Russian; this release intentionally covers only T1 and T2.
 - Other unmatched strings remain Russian instead of receiving guessed translations.
 
@@ -49,7 +50,7 @@ The mod may need rebuilding after an Astrum game update changes the localization
 `payload/Game.locres` SHA-256:
 
 ```text
-463BFAC99222991A4268C61740F04F10719FDD07809962D5C26B61F000C305B1
+E33292367CB1277735291CAFEA978221D38C0D900A804A07EC36DBFBD7391F80
 ```
 
 ## Disclaimer

@@ -3,7 +3,7 @@ setlocal EnableExtensions EnableDelayedExpansion
 title Throne and Liberty - Astrum English Localization
 
 set "REPO_RAW=https://raw.githubusercontent.com/berkaycimsir/tl-astrum-english/main"
-set "EXPECTED_SHA=463BFAC99222991A4268C61740F04F10719FDD07809962D5C26B61F000C305B1"
+set "EXPECTED_SHA=E33292367CB1277735291CAFEA978221D38C0D900A804A07EC36DBFBD7391F80"
 set "CACHE=%LOCALAPPDATA%\TL_Astrum_English"
 set "SCRIPTS=%CACHE%\scripts"
 set "PAYLOAD=%CACHE%\payload"
